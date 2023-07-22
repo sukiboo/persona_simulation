@@ -1,0 +1,22 @@
+Generate a random person. Report their age, gender, ethnicity, race, marital status. Give your answer as a numbered list.
+---
+There are 16 behavioral barriers preventing people from attending a colonoscopy appointment:
+1. Challenges involved with the bowel preparation
+2. Apprehension around the colonoscopy itself
+3. Shame/embarrassment
+4. Concerns about risk/side effects and discomfort
+5. No provider I trust
+6. Fear of abnormal findings
+7. Conflicting priorities
+8. Lack of benefit
+9. No symptoms
+10. Little to no risk for me
+11. No family history
+12. Negative personal experience
+13. Not interested
+14. I take natural remedies
+15. No-one can drive me
+16. Cost
+
+Choose 3 barriers that are most relevant to them.
+Return your answer as a numbered list.
