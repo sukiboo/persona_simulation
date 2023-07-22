@@ -34,7 +34,7 @@ if __name__ == '__main__':
     # read the prompt
     with open(f'./prompts/{prompt_file}.txt') as f:
         prompts = f.read().split('\n---\n')
-    print(f'Loaded prompt {prompt_file}:\n', *prompts, sep='\n')
+    print(f'Loaded prompt {prompt_file}:', *prompts, sep='\n\n')
 
     # simulate people and save responses
     exp_dir = f'./data/{prompt_file}/'
