@@ -1,0 +1,19 @@
+Act as a random United States citizen aged 18 or older. Take your demographics from the U.S. Census. Tell me your age, gender, ethnicity, race, education, income, marital status (married, single, divorced, other), insurance status (commercial insurance, non-commercial insurance, no insurance), PCP status (has a PCP, does not have a PCP, unknown). Tell me your persona demographics.
+---
+Which of the following are most likely to prevent you from attending a colonoscopy (choose as many as apply to you)?
+- Challenges involved with the bowel preparation
+- Apprehension around the colonoscopy itself
+- Shame/embarrassment
+- Concerns about risk/side effects and discomfort
+- No provider I trust
+- Fear of abnormal findings
+- Conflicting priorities
+- Lack of benefit
+- No symptoms
+- Little to no risk for me
+- No family history
+- Negative personal experience
+- Not interested
+- I take natural remedies
+- No-one can drive me
+- Cost

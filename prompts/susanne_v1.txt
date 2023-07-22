@@ -1,0 +1,8 @@
+First, create a persona based on the demographics below.
+The demographics are: Age, gender, ethnicity, and race.
+Age: choose an age between 18 and 99 according to a normal distribution with a mean of 46 years and a standard deviation of 13 years.
+Gender: choose Male or Female, with a 50% chance of either.
+Ethnicity: choose Hispanic or Not Hispanic, with a 19.1% chance of Hispanic.
+Race: choose American Indian or Alaska Native, Asian or Asian American, Black/African American, Native Hawaiian or other Pacific Islander, White/Caucasian, or Other, with a 1.3% chance of American Indian or Alaska Native, 6.3% chance of Asian or Asian American, 13.6% chance of Black/African American, 0.3% chance of Native Hawaiian or other Pacific Islander, 75.5% chance of White/Caucasian, and 3% chance of Other. Tell me your persona demographics.
+---
+What are your top 3 barriers to attending your recommended cancer screenings?
