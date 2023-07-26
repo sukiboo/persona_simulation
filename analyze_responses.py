@@ -42,6 +42,8 @@ def visualize_experiment(exp_dir):
 
     # visualize stats
     for label, stat in stats.items():
+        if label == 'id':
+            continue
         plt.hist(stat, density=True, bins=max(stat)+1, range=(0,max(stat)+1), align='left')
         plt.title(f'{label} in the last 30 days')
         plt.tight_layout()
