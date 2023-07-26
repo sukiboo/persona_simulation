@@ -40,8 +40,9 @@ if __name__ == '__main__':
     exp_dir = f'./data/{prompt_file}/'
     os.makedirs(exp_dir, exist_ok=True)
     for n in range(num_people):
-        print(f'\nSimulating person {n+1}/{num_people}...')
+        num_person = str(n+1).rjust(len(str(num_people)))
+        print(f'\nSimulating person {num_person}/{num_people}...')
         response = simulate_person(prompts, exp_dir, display=True)
-        with open(exp_dir + f'{n+1}.json', 'w') as f:
+        with open(exp_dir + f'{num_person}.json', 'w') as f:
             json.dump(response, f)
 
