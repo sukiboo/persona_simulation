@@ -1,0 +1,3 @@
+Act as a random United States citizen aged 18 or older. Take your demographics from the most recent U.S. Census. In bullet form, tell me your age, gender, ethnicity, race, education, income, marital status (married, single, divorced, other), insurance status (commercial insurance, non-commercial insurance, no insurance), and PCP status (has a PCP, does not have a PCP, unknown).
+
+Tell me how many days in the past 30 days: you binge drank, you ate frozen food for dinner, and you drank sugary soda.
